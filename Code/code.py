@@ -119,3 +119,4 @@ fichier_csv = "performance_athlete.csv"
 donnees = lire_donnees_csv(fichier_csv)
 performances = calculer_performance(donnees)
 tracer_graphe(performances)
+
